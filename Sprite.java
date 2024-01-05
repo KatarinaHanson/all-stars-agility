@@ -5,5 +5,6 @@
  * Description: A sprite represents an Entity with a texture.
  */
 public class Sprite extends Entity {
-    
+    Sprite() {
+    }
 }
